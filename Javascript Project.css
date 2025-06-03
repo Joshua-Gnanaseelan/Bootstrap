@@ -148,7 +148,6 @@ a {
   padding: 10px 15px;
   border: none;
   border-radius: 5px;
-  cursor: pointer;
   margin: 5px;
 }
 
@@ -271,3 +270,7 @@ footer {
   padding: 10px;
   font-size: 13px;
 }
+
+ html {
+      scroll-behavior: smooth;
+    }
